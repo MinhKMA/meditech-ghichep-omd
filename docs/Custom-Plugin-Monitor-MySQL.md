@@ -90,7 +90,9 @@
 
     if __name__ == '__main__':
         main()
-    ```
+    ```
+- Thay đổi user, password, tên database trong script theo thông tin database của bạn.
+
 - Phân quyền 
 
     `chmod +x check_mk_info.py`
